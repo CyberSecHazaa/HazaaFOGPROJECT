@@ -14,7 +14,7 @@ FOG project is open-source deployment system OS (Windows, Linux, Mac) on multipl
 
 - <b>Linux </b> 
 
-<h2>Program walk-through:</h2>
+<h2>Walk-Through:</h2>
 
 <p align="center">
 Setup: <br/>
