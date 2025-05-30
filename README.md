@@ -1,9 +1,8 @@
 <h1>Hazaa - FOG PROJECT
 
 <h2>Description</h2>
-FOG project is open-source deployment system OS (Windows, Linux, Mac) on multiple machines at once, it can be managed, cloned or deleted using the FOG Dashboard. 
+FOG project is open-source deployment system OS (Windows, Linux, Mac) on multiple machines at once, it can be managed, cloned or deleted using the FOG Dashboard. I had the chance to speak at "Ohio's 2024 Linux Fest" in Columbus OHIO, educating the audience the importance of Open-Source & Imaging deployment system such as FOG. Unfortunately, cannot show any proof due to the fest being private.  
 <br />
-
 
 <h2>Software & Hardware Used Used</h2>
 
